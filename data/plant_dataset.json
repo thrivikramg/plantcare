@@ -1,0 +1,283 @@
+[
+    {
+      "name": "Tomato",
+      "category": "Vegetable",
+      "watering_guidelines": {
+        "frequency": "Weekly",
+        "amount": "1-1.5 inches per week",
+        "tips": "Water deeply and consistently. Avoid wetting the leaves to prevent disease."
+      },
+      "growing_conditions": {
+        "sunlight": "Full sun",
+        "soil": "Well-drained, rich soil",
+        "temperature": "70-85°F"
+      }
+    },
+    {
+      "name": "Lettuce",
+      "category": "Vegetable",
+      "watering_guidelines": {
+        "frequency": "Weekly",
+        "amount": "1 inch per week",
+        "tips": "Water frequently to keep the soil moist, but avoid waterlogging."
+      },
+      "growing_conditions": {
+        "sunlight": "Partial shade",
+        "soil": "Loose, well-drained soil",
+        "temperature": "55-75°F"
+      }
+    },
+    {
+      "name": "Rose",
+      "category": "Flower",
+      "watering_guidelines": {
+        "frequency": "Weekly",
+        "amount": "1 inch per week",
+        "tips": "Water deeply to encourage strong roots. Avoid overhead watering to prevent mildew."
+      },
+      "growing_conditions": {
+        "sunlight": "Full sun",
+        "soil": "Well-drained, slightly acidic soil",
+        "temperature": "60-70°F"
+      }
+    },
+    {
+      "name": "Sunflower",
+      "category": "Flower",
+      "watering_guidelines": {
+        "frequency": "Weekly",
+        "amount": "1 inch per week",
+        "tips": "Water deeply. Sunflowers need more water during flowering."
+      },
+      "growing_conditions": {
+        "sunlight": "Full sun",
+        "soil": "Well-drained, slightly acidic soil",
+        "temperature": "70-80°F"
+      }
+    },
+    {
+      "name": "Cucumber",
+      "category": "Vegetable",
+      "watering_guidelines": {
+        "frequency": "Weekly",
+        "amount": "1 inch per week",
+        "tips": "Water regularly to keep the soil moist, but avoid waterlogging."
+      },
+      "growing_conditions": {
+        "sunlight": "Full sun",
+        "soil": "Well-drained, fertile soil",
+        "temperature": "70-85°F"
+      }
+    },
+    {
+      "name": "Tulip",
+      "category": "Flower",
+      "watering_guidelines": {
+        "frequency": "Weekly",
+        "amount": "1 inch per week",
+        "tips": "Water when the soil is dry to the touch. Do not overwater, as this can cause bulb rot."
+      },
+      "growing_conditions": {
+        "sunlight": "Full sun",
+        "soil": "Well-drained, slightly acidic soil",
+        "temperature": "50-60°F"
+      }
+    },
+    {
+      "name": "Carrot",
+      "category": "Vegetable",
+      "watering_guidelines": {
+        "frequency": "Weekly",
+        "amount": "1 inch per week",
+        "tips": "Water deeply to encourage root growth. Keep soil moist but not soggy."
+      },
+      "growing_conditions": {
+        "sunlight": "Full sun",
+        "soil": "Loamy, well-drained soil",
+        "temperature": "55-75°F"
+      }
+    },
+    {
+      "name": "Daffodil",
+      "category": "Flower",
+      "watering_guidelines": {
+        "frequency": "Weekly",
+        "amount": "1 inch per week",
+        "tips": "Water deeply after planting but reduce watering once the flowers start to fade."
+      },
+      "growing_conditions": {
+        "sunlight": "Full sun",
+        "soil": "Well-drained, fertile soil",
+        "temperature": "50-60°F"
+      }
+    },
+    {
+      "name": "Spinach",
+      "category": "Vegetable",
+      "watering_guidelines": {
+        "frequency": "Weekly",
+        "amount": "1 inch per week",
+        "tips": "Keep soil consistently moist. Water regularly to avoid wilting."
+      },
+      "growing_conditions": {
+        "sunlight": "Full sun to partial shade",
+        "soil": "Well-drained, rich soil",
+        "temperature": "50-60°F"
+      }
+    },
+    {
+      "name": "Chili Pepper",
+      "category": "Vegetable",
+      "watering_guidelines": {
+        "frequency": "Weekly",
+        "amount": "1 inch per week",
+        "tips": "Water when the top inch of soil feels dry. Avoid overwatering."
+      },
+      "growing_conditions": {
+        "sunlight": "Full sun",
+        "soil": "Well-drained, fertile soil",
+        "temperature": "70-85°F"
+      }
+    },
+    {
+      "name": "Strawberry",
+      "category": "Fruit",
+      "watering_guidelines": {
+        "frequency": "Weekly",
+        "amount": "1-1.5 inches per week",
+        "tips": "Water deeply to promote strong root systems, but avoid wetting the foliage to prevent diseases."
+      },
+      "growing_conditions": {
+        "sunlight": "Full sun",
+        "soil": "Well-drained, slightly acidic soil",
+        "temperature": "60-80°F"
+      }
+    },
+    {
+      "name": "Spinach",
+      "category": "Vegetable",
+      "watering_guidelines": {
+        "frequency": "Weekly",
+        "amount": "1 inch per week",
+        "tips": "Keep soil consistently moist. Water regularly to avoid wilting."
+      },
+      "growing_conditions": {
+        "sunlight": "Full sun to partial shade",
+        "soil": "Well-drained, rich soil",
+        "temperature": "50-60°F"
+      }
+    },
+    {
+      "name": "Chili Pepper",
+      "category": "Vegetable",
+      "watering_guidelines": {
+        "frequency": "Weekly",
+        "amount": "1 inch per week",
+        "tips": "Water when the top inch of soil feels dry. Avoid overwatering."
+      },
+      "growing_conditions": {
+        "sunlight": "Full sun",
+        "soil": "Well-drained, fertile soil",
+        "temperature": "70-85°F"
+      }
+    },
+    {
+      "name": "Orchid",
+      "category": "Flower",
+      "watering_guidelines": {
+        "frequency": "Weekly",
+        "amount": "Water once a week",
+        "tips": "Water thoroughly, but allow the potting medium to dry out between waterings."
+      },
+      "growing_conditions": {
+        "sunlight": "Indirect light",
+        "soil": "Well-draining orchid mix",
+        "temperature": "65-75°F"
+      }
+    },
+    {
+      "name": "Basil",
+      "category": "Herb",
+      "watering_guidelines": {
+        "frequency": "Weekly",
+        "amount": "1 inch per week",
+        "tips": "Water when the soil is dry to the touch. Avoid getting water on leaves."
+      },
+      "growing_conditions": {
+        "sunlight": "Full sun",
+        "soil": "Well-drained, loamy soil",
+        "temperature": "70-80°F"
+      }
+    },
+    {
+      "name": "Eggplant",
+      "category": "Vegetable",
+      "watering_guidelines": {
+        "frequency": "Weekly",
+        "amount": "1-1.5 inches per week",
+        "tips": "Water consistently and deeply to keep soil moist. Avoid overhead watering."
+      },
+      "growing_conditions": {
+        "sunlight": "Full sun",
+        "soil": "Fertile, well-drained soil",
+        "temperature": "70-85°F"
+      }
+    },
+    {
+      "name": "Zucchini",
+      "category": "Vegetable",
+      "watering_guidelines": {
+        "frequency": "Weekly",
+        "amount": "1-1.5 inches per week",
+        "tips": "Water deeply, especially during fruiting. Avoid waterlogging the soil."
+      },
+      "growing_conditions": {
+        "sunlight": "Full sun",
+        "soil": "Well-drained, rich soil",
+        "temperature": "70-85°F"
+      }
+    },
+    {
+      "name": "Lemon Tree",
+      "category": "Fruit",
+      "watering_guidelines": {
+        "frequency": "Weekly",
+        "amount": "1-1.5 inches per week",
+        "tips": "Water deeply and consistently, allowing the top of the soil to dry out between waterings."
+      },
+      "growing_conditions": {
+        "sunlight": "Full sun",
+        "soil": "Well-drained, slightly acidic soil",
+        "temperature": "70-85°F"
+      }
+    },
+    {
+      "name": "Daisy",
+      "category": "Flower",
+      "watering_guidelines": {
+        "frequency": "Weekly",
+        "amount": "1 inch per week",
+        "tips": "Water regularly during dry spells but avoid overwatering to prevent root rot."
+      },
+      "growing_conditions": {
+        "sunlight": "Full sun",
+        "soil": "Well-drained soil",
+        "temperature": "60-70°F"
+      }
+    },
+    {
+      "name": "Pineapple",
+      "category": "Fruit",
+      "watering_guidelines": {
+        "frequency": "Weekly",
+        "amount": "1-1.5 inches per week",
+        "tips": "Water deeply but allow soil to dry out slightly between waterings. Reduce watering in winter."
+      },
+      "growing_conditions": {
+        "sunlight": "Full sun",
+        "soil": "Well-drained, sandy soil",
+        "temperature": "70-95°F"
+      }
+    }
+  ]
+  

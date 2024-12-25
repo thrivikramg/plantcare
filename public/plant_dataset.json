@@ -1,0 +1,670 @@
+[
+  {
+    "name": "Tomato",
+    "category": "Vegetable",
+    "scientific_name": "Solanum lycopersicum",
+    "fun_fact": "Tomatoes are actually a fruit, not a vegetable! They're rich in antioxidants, especially lycopene, which may reduce the risk of heart disease.",
+    "used_for": "Tomatoes are widely used in salads, sauces, soups, and as a topping for pizzas and burgers.",
+    "watering_guidelines": {
+      "frequency_in_days": 3,
+      "amount": "1-1.5 inches per week",
+      "tips": "Water deeply and consistently. Avoid wetting the leaves to prevent disease."
+    },
+    "growing_conditions": {
+      "sunlight": "Full sun",
+      "soil": "Well-drained, rich soil with a pH between 6.0 and 6.8.",
+      "temperature": "70-85°F"
+    }
+  },
+  {
+    "name": "Lettuce",
+    "category": "Vegetable",
+    "scientific_name": "Lactuca sativa",
+    "fun_fact": "Lettuce was first cultivated by the Egyptians over 4,000 years ago and was used both for its leaves and seeds.",
+    "used_for": "Lettuce is commonly used in salads, sandwiches, and wraps. It is known for its crisp texture and refreshing taste.",
+    "watering_guidelines": {
+      "frequency_in_days": 2,
+      "amount": "1 inch per week",
+      "tips": "Water frequently to keep the soil moist, but avoid waterlogging."
+    },
+    "growing_conditions": {
+      "sunlight": "Partial shade",
+      "soil": "Loose, well-drained soil with a pH between 6.0 and 7.0.",
+      "temperature": "55-75°F"
+    }
+  },
+  {
+    "name": "Rose",
+    "category": "Flower",
+    "scientific_name": "Rosa spp.",
+    "fun_fact": "Roses have been symbols of love and beauty for thousands of years. There are over 100 species and thousands of cultivars.",
+    "used_for": "Roses are used in floral arrangements, perfumes, and as ornamental plants in gardens. They symbolize love and romance.",
+    "watering_guidelines": {
+      "frequency_in_days": 4,
+      "amount": "1 inch per week",
+      "tips": "Water deeply to encourage strong roots. Avoid overhead watering to prevent mildew."
+    },
+    "growing_conditions": {
+      "sunlight": "Full sun",
+      "soil": "Well-drained, slightly acidic soil with a pH of 6.0 to 6.5.",
+      "temperature": "60-70°F"
+    }
+  },
+  {
+    "name": "Sunflower",
+    "category": "Flower",
+    "scientific_name": "Helianthus annuus",
+    "fun_fact": "Sunflowers can grow as tall as 12 feet or more, and they are known for turning their heads toward the sun, a phenomenon called heliotropism.",
+    "used_for": "Sunflowers are grown for their seeds, which are used in snacks, cooking oils, and bird feed. They are also popular as ornamental plants.",
+    "watering_guidelines": {
+      "frequency_in_days": 4,
+      "amount": "1 inch per week",
+      "tips": "Water deeply. Sunflowers need more water during flowering."
+    },
+    "growing_conditions": {
+      "sunlight": "Full sun",
+      "soil": "Well-drained, slightly acidic soil with a pH of 6.0 to 7.5.",
+      "temperature": "70-80°F"
+    }
+  },
+  {
+    "name": "Cucumber",
+    "category": "Vegetable",
+    "scientific_name": "Cucumis sativus",
+    "fun_fact": "Cucumbers are technically fruits because they contain seeds, but they are usually treated as vegetables in cooking.",
+    "used_for": "Cucumbers are commonly used in salads, sandwiches, and pickles. They are refreshing and hydrating due to their high water content.",
+    "watering_guidelines": {
+      "frequency_in_days": 3,
+      "amount": "1 inch per week",
+      "tips": "Water regularly to keep the soil moist, but avoid waterlogging."
+    },
+    "growing_conditions": {
+      "sunlight": "Full sun",
+      "soil": "Well-drained, fertile soil with a pH between 6.0 and 6.8.",
+      "temperature": "70-85°F"
+    }
+  },
+  {
+    "name": "Tulip",
+    "category": "Flower",
+    "scientific_name": "Tulipa spp.",
+    "fun_fact": "Tulips are one of the most popular flowers in the world and come in virtually every color of the rainbow. They were once so valuable in the Netherlands that they caused a financial bubble in the 17th century!",
+    "used_for": "Tulips are widely used in gardens and floral arrangements due to their vibrant colors and elegant shape.",
+    "watering_guidelines": {
+      "frequency_in_days": 5,
+      "amount": "1 inch per week",
+      "tips": "Water when the soil is dry to the touch. Do not overwater, as this can cause bulb rot."
+    },
+    "growing_conditions": {
+      "sunlight": "Full sun",
+      "soil": "Well-drained, slightly acidic soil with a pH between 6.0 and 7.0.",
+      "temperature": "50-60°F"
+    }
+  },
+  {
+    "name": "Carrot",
+    "category": "Vegetable",
+    "scientific_name": "Daucus carota",
+    "fun_fact": "Carrots were originally purple or white before the Dutch cultivated the orange variety in the 17th century to honor the royal family.",
+    "used_for": "Carrots are commonly eaten raw, cooked, or juiced. They are also used in soups, salads, and cakes like carrot cake.",
+    "watering_guidelines": {
+      "frequency_in_days": 3,
+      "amount": "1 inch per week",
+      "tips": "Water deeply to encourage root growth. Keep soil moist but not soggy."
+    },
+    "growing_conditions": {
+      "sunlight": "Full sun",
+      "soil": "Loamy, well-drained soil with a pH between 6.0 and 6.8.",
+      "temperature": "55-75°F"
+    }
+  },
+  {
+    "name": "Daffodil",
+    "category": "Flower",
+    "scientific_name": "Narcissus spp.",
+    "fun_fact": "Daffodils are one of the first flowers to bloom in spring and are often associated with renewal and hope.",
+    "used_for": "Daffodils are often used in spring gardens and as cut flowers in floral arrangements. Their bright yellow blooms symbolize renewal.",
+    "watering_guidelines": {
+      "frequency_in_days": 6,
+      "amount": "1 inch per week",
+      "tips": "Water deeply after planting but reduce watering once the flowers start to fade."
+    },
+    "growing_conditions": {
+      "sunlight": "Full sun",
+      "soil": "Well-drained, fertile soil with a pH between 6.0 and 7.0.",
+      "temperature": "50-60°F"
+    }
+  },
+  {
+    "name": "Spinach",
+    "category": "Vegetable",
+    "scientific_name": "Spinacia oleracea",
+    "fun_fact": "Spinach is packed with iron, and while it doesn't have as much iron as once thought, it's still a great source of vitamins and minerals.",
+    "used_for": "Spinach is commonly used in salads, soups, and smoothies. It's known for its nutritional value and health benefits.",
+    "watering_guidelines": {
+      "frequency_in_days": 2,
+      "amount": "1 inch per week",
+      "tips": "Keep soil consistently moist. Water regularly to avoid wilting."
+    },
+    "growing_conditions": {
+      "sunlight": "Full sun to partial shade",
+      "soil": "Well-drained, rich soil with a pH between 6.5 and 7.0.",
+      "temperature": "50-60°F"
+    }
+  },
+  {
+    "name": "Chili Pepper",
+    "category": "Vegetable",
+    "scientific_name": "Capsicum annuum",
+    "fun_fact": "Chili peppers contain capsaicin, which is responsible for their spiciness. Capsaicin is also known to have health benefits like boosting metabolism.",
+    "used_for": "Chili peppers are used in cooking to add heat to dishes, sauces, and salsas.",
+    "watering_guidelines": {
+      "frequency_in_days": 4,
+      "amount": "1 inch per week",
+      "tips": "Water when the top inch of soil feels dry. Avoid overwatering."
+    },
+    "growing_conditions": {
+      "sunlight": "Full sun",
+      "soil": "Well-drained, fertile soil with a pH between 6.0 and 6.8.",
+      "temperature": "70-85°F"
+    }
+  },
+  {
+    "name": "Strawberry",
+    "category": "Fruit",
+    "scientific_name": "Fragaria × ananassa",
+    "fun_fact": "Strawberries are the only fruit that has seeds on the outside! They have about 200 seeds on each berry.",
+    "used_for": "Strawberries are commonly used in desserts, smoothies, jams, and eaten fresh.",
+    "watering_guidelines": {
+      "frequency_in_days": 5,
+      "amount": "1-1.5 inches per week",
+      "tips": "Water deeply to promote strong root systems, but avoid wetting the foliage to prevent diseases."
+    },
+    "growing_conditions": {
+      "sunlight": "Full sun",
+      "soil": "Well-drained, slightly acidic soil with a pH between 5.5 and 6.5.",
+      "temperature": "60-80°F"
+    }
+  },
+  {
+    "name": "Orchid",
+    "category": "Flower",
+    "scientific_name": "Orchidaceae family",
+    "fun_fact": "Orchids are one of the largest plant families, with over 25,000 species. Some orchids can live for decades with proper care.",
+    "used_for": "Orchids are used in floral arrangements, as houseplants, and for their fragrant flowers.",
+    "watering_guidelines": {
+      "frequency_in_days": 7,
+      "amount": "Water once a week",
+      "tips": "Water thoroughly, but allow the potting medium to dry out between waterings."
+    },
+    "growing_conditions": {
+      "sunlight": "Indirect light",
+      "soil": "Well-draining orchid mix designed for air flow and moisture retention.",
+      "temperature": "65-75°F"
+    }
+  },
+  
+    {
+      "name": "Pepper",
+      "category": "Vegetable",
+      "scientific_name": "Capsicum spp.",
+      "fun_fact": "Peppers come in many colors and levels of spiciness. Sweet peppers have no capsaicin, while hot peppers like the habanero contain it.",
+      "used_for": "Peppers are used in salads, stir-fries, sauces, and salsas. They're known for adding flavor and heat to dishes.",
+      "watering_guidelines": {
+        "frequency_in_days": 3,
+        "amount": "1 inch per week",
+        "tips": "Water consistently, but avoid letting the soil get soggy. They need well-drained soil."
+      },
+      "growing_conditions": {
+        "sunlight": "Full sun",
+        "soil": "Well-drained, slightly acidic soil with a pH between 6.0 and 6.8.",
+        "temperature": "70-85°F"
+      }
+    },
+    {
+      "name": "Zucchini",
+      "category": "Vegetable",
+      "scientific_name": "Cucurbita pepo",
+      "fun_fact": "Zucchini is a type of summer squash. It can grow rapidly in the right conditions and produce large yields in a short period of time.",
+      "used_for": "Zucchini is commonly used in stir-fries, pasta dishes, or baked goods. It can also be grilled or fried.",
+      "watering_guidelines": {
+        "frequency_in_days": 4,
+        "amount": "1 inch per week",
+        "tips": "Water deeply to encourage healthy growth. Avoid getting water on the leaves to reduce the risk of mildew."
+      },
+      "growing_conditions": {
+        "sunlight": "Full sun",
+        "soil": "Well-drained, fertile soil with a pH between 6.0 and 7.0.",
+        "temperature": "70-90°F"
+      }
+    },
+    {
+      "name": "Mint",
+      "category": "Herb",
+      "scientific_name": "Mentha spp.",
+      "fun_fact": "Mint is a fast-growing herb that is often invasive in gardens. It can spread quickly, so it's best to plant it in containers.",
+      "used_for": "Mint is used in cooking, especially in salads, teas, desserts, and cocktails like mojitos.",
+      "watering_guidelines": {
+        "frequency_in_days": 3,
+        "amount": "1 inch per week",
+        "tips": "Keep the soil consistently moist. Mint prefers slightly moist but well-drained conditions."
+      },
+      "growing_conditions": {
+        "sunlight": "Full sun to partial shade",
+        "soil": "Moist, well-drained soil with a pH between 6.0 and 7.0.",
+        "temperature": "55-70°F"
+      }
+    },
+    {
+      "name": "Cabbage",
+      "category": "Vegetable",
+      "scientific_name": "Brassica oleracea var. capitata",
+      "fun_fact": "Cabbage is a cool-season vegetable that can be grown year-round in some climates. It's rich in vitamins K and C.",
+      "used_for": "Cabbage is used in salads, coleslaw, soups, and even fermented into sauerkraut or kimchi.",
+      "watering_guidelines": {
+        "frequency_in_days": 3,
+        "amount": "1 inch per week",
+        "tips": "Keep the soil moist, especially during hot weather. Water at the base to avoid wetting the leaves."
+      },
+      "growing_conditions": {
+        "sunlight": "Full sun",
+        "soil": "Well-drained, fertile soil with a pH between 6.0 and 6.8.",
+        "temperature": "55-75°F"
+      }
+    },
+    {
+      "name": "Lavender",
+      "category": "Herb",
+      "scientific_name": "Lavandula spp.",
+      "fun_fact": "Lavender is not only known for its beautiful purple flowers, but its aroma is often used in aromatherapy to reduce stress and anxiety.",
+      "used_for": "Lavender is commonly used in perfumes, essential oils, teas, and as an ornamental plant in gardens.",
+      "watering_guidelines": {
+        "frequency_in_days": 7,
+        "amount": "1 inch per week",
+        "tips": "Water sparingly, as lavender prefers dry, well-drained soil. Overwatering can lead to root rot."
+      },
+      "growing_conditions": {
+        "sunlight": "Full sun",
+        "soil": "Well-drained, sandy soil with a pH between 6.7 and 7.3.",
+        "temperature": "70-80°F"
+      }
+    },
+    {
+      "name": "Aloe Vera",
+      "category": "Succulent",
+      "scientific_name": "Aloe barbadensis miller",
+      "fun_fact": "Aloe vera gel is known for its healing properties and is commonly used to soothe burns and moisturize the skin.",
+      "used_for": "Aloe vera is often used in skin care products, as well as in juices and teas for its potential digestive benefits.",
+      "watering_guidelines": {
+        "frequency_in_days": 10,
+        "amount": "1 inch per week",
+        "tips": "Allow the soil to dry out completely between waterings. Aloe vera prefers a dry environment."
+      },
+      "growing_conditions": {
+        "sunlight": "Full sun",
+        "soil": "Well-drained, sandy soil with a pH between 6.0 and 8.0.",
+        "temperature": "59-77°F"
+      }
+    },
+    {
+      "name": "Dahlia",
+      "category": "Flower",
+      "scientific_name": "Dahlia spp.",
+      "fun_fact": "Dahlias are known for their wide variety of shapes and vibrant colors. They are often seen in flower shows and garden competitions.",
+      "used_for": "Dahlias are grown for their ornamental flowers, which are popular in floral arrangements and as garden plants.",
+      "watering_guidelines": {
+        "frequency_in_days": 4,
+        "amount": "1 inch per week",
+        "tips": "Water at the base of the plant to avoid wetting the flowers. Dahlias need regular watering to thrive."
+      },
+      "growing_conditions": {
+        "sunlight": "Full sun",
+        "soil": "Well-drained, rich soil with a pH between 6.0 and 7.0.",
+        "temperature": "60-70°F"
+      }
+    },
+    {
+      "name": "Garlic",
+      "category": "Herb",
+      "scientific_name": "Allium sativum",
+      "fun_fact": "Garlic has been used for thousands of years, both as a food and for its medicinal properties, such as its ability to fight infections.",
+      "used_for": "Garlic is used to add flavor to a variety of dishes and is also used in cooking oils, soups, and even medicinal preparations.",
+      "watering_guidelines": {
+        "frequency_in_days": 4,
+        "amount": "1 inch per week",
+        "tips": "Garlic prefers dry soil, so water deeply but less frequently to prevent rot."
+      },
+      "growing_conditions": {
+        "sunlight": "Full sun",
+        "soil": "Well-drained, loose soil with a pH between 6.0 and 7.0.",
+        "temperature": "55-75°F"
+      }
+    },
+    {
+      "name": "Peas",
+      "category": "Vegetable",
+      "scientific_name": "Pisum sativum",
+      "fun_fact": "Peas are one of the earliest cultivated crops in history and are a great source of plant-based protein and fiber.",
+      "used_for": "Peas are used in soups, salads, and as a side dish. They're also added to pastas and stir-fries.",
+      "watering_guidelines": {
+        "frequency_in_days": 4,
+        "amount": "1 inch per week",
+        "tips": "Peas need consistent moisture, especially during flowering. Water at the base to avoid wetting the foliage."
+      },
+      "growing_conditions": {
+        "sunlight": "Full sun",
+        "soil": "Well-drained, fertile soil with a pH between 6.0 and 7.0.",
+        "temperature": "55-70°F"
+      }
+    },
+    {
+      "name": "Chrysanthemum",
+      "category": "Flower",
+      "scientific_name": "Chrysanthemum spp.",
+      "fun_fact": "Chrysanthemums are often associated with autumn and are symbols of happiness and longevity in many cultures.",
+      "used_for": "Chrysanthemums are grown as ornamental plants and are popular in floral arrangements, especially during fall.",
+      "watering_guidelines": {
+        "frequency_in_days": 4,
+        "amount": "1 inch per week",
+        "tips": "Water the base of the plant and avoid getting water on the leaves to reduce the risk of diseases."
+      },
+      "growing_conditions": {
+        "sunlight": "Full sun",
+        "soil": "Well-drained, rich soil with a pH between 6.0 and 6.5.",
+        "temperature": "50-60°F"
+      }
+    }, 
+      {
+        "name": "Radish",
+        "category": "Vegetable",
+        "scientific_name": "Raphanus sativus",
+        "fun_fact": "Radishes are one of the fastest-growing vegetables, often ready to harvest within 3-4 weeks of planting.",
+        "used_for": "Radishes are used in salads, salsas, and as a garnish. They have a peppery taste that adds crunch to dishes.",
+        "watering_guidelines": {
+          "frequency_in_days": 2,
+          "amount": "1 inch per week",
+          "tips": "Water regularly to prevent the soil from drying out. Consistent moisture helps avoid bitter flavors."
+        },
+        "growing_conditions": {
+          "sunlight": "Full sun to partial shade",
+          "soil": "Loose, well-drained soil with a pH between 6.0 and 7.0.",
+          "temperature": "50-70°F"
+        }
+      },
+      {
+        "name": "Thyme",
+        "category": "Herb",
+        "scientific_name": "Thymus vulgaris",
+        "fun_fact": "Thyme has been used since ancient times as a medicinal herb and in culinary dishes. It's often used to flavor meats and stews.",
+        "used_for": "Thyme is commonly used in cooking for seasoning meats, vegetables, and soups.",
+        "watering_guidelines": {
+          "frequency_in_days": 7,
+          "amount": "1 inch per week",
+          "tips": "Water sparingly, as thyme prefers dry conditions. Overwatering can cause root rot."
+        },
+        "growing_conditions": {
+          "sunlight": "Full sun",
+          "soil": "Well-drained, sandy or loamy soil with a pH between 6.0 and 8.0.",
+          "temperature": "60-70°F"
+        }
+      },
+      {
+        "name": "Sweet Potato",
+        "category": "Vegetable",
+        "scientific_name": "Ipomoea batatas",
+        "fun_fact": "Sweet potatoes are rich in beta-carotene, which gives them their vibrant orange color. They are different from regular potatoes, which are starchier.",
+        "used_for": "Sweet potatoes are used in casseroles, pies, and as a side dish. They're also baked or mashed.",
+        "watering_guidelines": {
+          "frequency_in_days": 3,
+          "amount": "1 inch per week",
+          "tips": "Water consistently, but avoid overwatering as it can cause root rot."
+        },
+        "growing_conditions": {
+          "sunlight": "Full sun",
+          "soil": "Well-drained, sandy soil with a pH between 5.5 and 6.5.",
+          "temperature": "75-85°F"
+        }
+      },
+      {
+        "name": "Kale",
+        "category": "Vegetable",
+        "scientific_name": "Brassica oleracea var. sabellica",
+        "fun_fact": "Kale is considered a superfood due to its high content of vitamins A, C, and K. It's also packed with antioxidants.",
+        "used_for": "Kale is used in salads, smoothies, soups, and as a garnish. It's often sautéed or baked into chips.",
+        "watering_guidelines": {
+          "frequency_in_days": 3,
+          "amount": "1 inch per week",
+          "tips": "Water deeply to maintain consistent moisture. Kale prefers cooler temperatures."
+        },
+        "growing_conditions": {
+          "sunlight": "Full sun to partial shade",
+          "soil": "Well-drained, rich soil with a pH between 6.0 and 7.0.",
+          "temperature": "55-75°F"
+        }
+      },
+      {
+        "name": "Pumpkin",
+        "category": "Vegetable",
+        "scientific_name": "Cucurbita pepo",
+        "fun_fact": "Pumpkins are part of the gourd family and can grow to enormous sizes. The largest pumpkin on record weighed over 2,600 pounds.",
+        "used_for": "Pumpkins are used in pies, soups, roasted dishes, and even for carving during Halloween.",
+        "watering_guidelines": {
+          "frequency_in_days": 4,
+          "amount": "1 inch per week",
+          "tips": "Water deeply and consistently, especially during flowering and fruiting stages."
+        },
+        "growing_conditions": {
+          "sunlight": "Full sun",
+          "soil": "Well-drained, fertile soil with a pH between 6.0 and 7.5.",
+          "temperature": "65-75°F"
+        }
+      },
+      {
+        "name": "Cilantro",
+        "category": "Herb",
+        "scientific_name": "Coriandrum sativum",
+        "fun_fact": "Cilantro leaves are commonly used in cooking, while the seeds are ground into the spice known as coriander. Some people have a genetic trait that makes cilantro taste soapy.",
+        "used_for": "Cilantro is used to flavor dishes like salsa, curries, and salads.",
+        "watering_guidelines": {
+          "frequency_in_days": 3,
+          "amount": "1 inch per week",
+          "tips": "Water frequently to keep the soil moist, but avoid waterlogging."
+        },
+        "growing_conditions": {
+          "sunlight": "Full sun to partial shade",
+          "soil": "Well-drained, loamy soil with a pH between 6.5 and 7.0.",
+          "temperature": "50-85°F"
+        }
+      },
+      {
+        "name": "Fennel",
+        "category": "Herb",
+        "scientific_name": "Foeniculum vulgare",
+        "fun_fact": "Fennel has a licorice-like flavor and is often used in Mediterranean cuisine. Both the bulb and seeds are edible.",
+        "used_for": "Fennel is used in salads, roasted dishes, soups, and as a seasoning for fish and meat.",
+        "watering_guidelines": {
+          "frequency_in_days": 4,
+          "amount": "1 inch per week",
+          "tips": "Water deeply but allow the soil to dry out slightly between waterings."
+        },
+        "growing_conditions": {
+          "sunlight": "Full sun",
+          "soil": "Well-drained, slightly alkaline soil with a pH between 6.0 and 7.5.",
+          "temperature": "60-75°F"
+        }
+      },
+      {
+        "name": "Oregano",
+        "category": "Herb",
+        "scientific_name": "Origanum vulgare",
+        "fun_fact": "Oregano is known for its strong, aromatic flavor and is often used in Mediterranean cooking, especially with tomatoes.",
+        "used_for": "Oregano is used in cooking, particularly in sauces, stews, pizzas, and Mediterranean dishes.",
+        "watering_guidelines": {
+          "frequency_in_days": 5,
+          "amount": "1 inch per week",
+          "tips": "Water sparingly, as oregano prefers dry soil. Overwatering can lead to root rot."
+        },
+        "growing_conditions": {
+          "sunlight": "Full sun",
+          "soil": "Well-drained, slightly alkaline soil with a pH between 6.0 and 8.0.",
+          "temperature": "65-80°F"
+        }
+      },
+      {
+        "name": "Asparagus",
+        "category": "Vegetable",
+        "scientific_name": "Asparagus officinalis",
+        "fun_fact": "Asparagus is a perennial vegetable, meaning it can be harvested year after year once established.",
+        "used_for": "Asparagus is commonly roasted, grilled, or steamed. It's a nutritious vegetable often used in side dishes and salads.",
+        "watering_guidelines": {
+          "frequency_in_days": 4,
+          "amount": "1 inch per week",
+          "tips": "Water deeply and consistently to maintain soil moisture, especially during the growing season."
+        },
+        "growing_conditions": {
+          "sunlight": "Full sun",
+          "soil": "Well-drained, slightly acidic soil with a pH between 6.5 and 7.0.",
+          "temperature": "60-80°F"
+        }
+      },
+      {
+        "name": "Parsley",
+        "category": "Herb",
+        "scientific_name": "Petroselinum crispum",
+        "fun_fact": "Parsley is one of the most widely used herbs in cooking. It can be grown as a biennial, but it's often treated as an annual in cooler climates.",
+        "used_for": "Parsley is commonly used in salads, garnishes, soups, and Mediterranean dishes.",
+        "watering_guidelines": {
+          "frequency_in_days": 4,
+          "amount": "1 inch per week",
+          "tips": "Water regularly to keep the soil moist. Parsley prefers rich, moist conditions."
+        },
+        "growing_conditions": {
+          "sunlight": "Full sun to partial shade",
+          "soil": "Well-drained, fertile soil with a pH between 6.0 and 7.0.",
+          "temperature": "55-70°F"
+        }
+      },
+      {
+        "name": "Lemon Balm",
+        "category": "Herb",
+        "scientific_name": "Melissa officinalis",
+        "fun_fact": "Lemon balm has a mild lemon scent and is often used in teas and as a natural remedy for anxiety and sleep disorders.",
+        "used_for": "Lemon balm is used in teas, infusions, and as a flavoring for desserts and savory dishes.",
+        "watering_guidelines": {
+          "frequency_in_days": 5,
+          "amount": "1 inch per week",
+          "tips": "Water consistently to keep the soil moist but not soggy."
+        },
+        "growing_conditions": {
+          "sunlight": "Full sun to partial shade",
+          "soil": "Well-drained, fertile soil with a pH between 6.0 and 7.0.",
+          "temperature": "60-75°F"
+        }
+      },
+      {
+        "name": "Chard",
+        "category": "Vegetable",
+        "scientific_name": "Beta vulgaris subsp. vulgaris",
+        "fun_fact": "Chard is a nutrient-dense vegetable often used for its edible leaves and stems, which can be red, yellow, or white.",
+        "used_for": "Chard is used in salads, sautés, soups, and as a cooked green like spinach or kale.",
+        "watering_guidelines": {
+          "frequency_in_days": 3,
+          "amount": "1 inch per week",
+          "tips": "Water regularly to maintain soil moisture and promote healthy leaf growth."
+        },
+        "growing_conditions": {
+          "sunlight": "Full sun to partial shade",
+          "soil": "Well-drained, fertile soil with a pH between 6.0 and 7.0.",
+          "temperature": "55-75°F"
+        }
+      },
+      {
+        "name": "Beetroot",
+        "category": "Vegetable",
+        "scientific_name": "Beta vulgaris",
+        "fun_fact": "Beetroots are packed with nutrients like iron and folate, and they are often used in juices for their detoxifying properties.",
+        "used_for": "Beetroot is used in salads, soups, juices, and as a side dish. Its leaves are also edible and nutritious.",
+        "watering_guidelines": {
+          "frequency_in_days": 4,
+          "amount": "1 inch per week",
+          "tips": "Water consistently, but avoid waterlogging. Beetroots thrive in well-drained soil."
+        },
+        "growing_conditions": {
+          "sunlight": "Full sun to partial shade",
+          "soil": "Well-drained, loose soil with a pH between 6.0 and 7.0.",
+          "temperature": "50-70°F"
+        }
+      },
+      {
+        "name": "Arugula",
+        "category": "Vegetable",
+        "scientific_name": "Eruca vesicaria",
+        "fun_fact": "Arugula, also known as rocket, has a distinct peppery taste, and it’s a popular addition to salads and sandwiches.",
+        "used_for": "Arugula is used in salads, sandwiches, pizzas, and as a garnish.",
+        "watering_guidelines": {
+          "frequency_in_days": 3,
+          "amount": "1 inch per week",
+          "tips": "Water regularly to keep the soil moist but not soggy."
+        },
+        "growing_conditions": {
+          "sunlight": "Full sun to partial shade",
+          "soil": "Well-drained, rich soil with a pH between 6.0 and 7.0.",
+          "temperature": "55-65°F"
+        }
+      },
+      {
+        "name": "Chili Pepper",
+        "category": "Vegetable",
+        "scientific_name": "Capsicum annuum",
+        "fun_fact": "Chili peppers come in many varieties, from mild to extremely hot, and are widely used in cuisines across the world.",
+        "used_for": "Chili peppers are used in salsas, sauces, and spice mixes to add heat and flavor.",
+        "watering_guidelines": {
+          "frequency_in_days": 3,
+          "amount": "1 inch per week",
+          "tips": "Water deeply but avoid overwatering. Peppers prefer well-drained soil."
+        },
+        "growing_conditions": {
+          "sunlight": "Full sun",
+          "soil": "Well-drained, slightly acidic soil with a pH between 6.0 and 6.8.",
+          "temperature": "70-85°F"
+        }
+      },
+      {
+        "name": "Celery",
+        "category": "Vegetable",
+        "scientific_name": "Apium graveolens",
+        "fun_fact": "Celery is a low-calorie vegetable packed with vitamins and minerals, making it a popular choice for health-conscious diets.",
+        "used_for": "Celery is often used in soups, salads, stir-fries, and as a snack, particularly with dips.",
+        "watering_guidelines": {
+          "frequency_in_days": 3,
+          "amount": "1 inch per week",
+          "tips": "Celery requires consistently moist soil to grow well. Keep it evenly watered."
+        },
+        "growing_conditions": {
+          "sunlight": "Full sun to partial shade",
+          "soil": "Well-drained, moist soil with a pH between 6.0 and 7.0.",
+          "temperature": "55-75°F"
+        }
+      },
+      {
+        "name": "Cucumber",
+        "category": "Vegetable",
+        "scientific_name": "Cucumis sativus",
+        "fun_fact": "Cucumbers are made up of about 95% water, making them one of the most hydrating vegetables.",
+        "used_for": "Cucumbers are often used in salads, sandwiches, pickles, and as a refreshing snack.",
+        "watering_guidelines": {
+          "frequency_in_days": 3,
+          "amount": "1 inch per week",
+          "tips": "Water regularly to keep the soil moist, but avoid wetting the leaves to prevent mildew."
+        },
+        "growing_conditions": {
+          "sunlight": "Full sun",
+          "soil": "Well-drained, fertile soil with a pH between 6.0 and 6.8.",
+          "temperature": "65-85°F"
+        }
+      }
+    
+    
+  
+  
+]
